@@ -585,7 +585,7 @@ body {
     height: auto;
   }
 }
-@media (max-width: 657px) {
+@media (max-width: 657px) and (min-width: 410px) {
   #hero {
     height: 70vh;
     width: 100%;
