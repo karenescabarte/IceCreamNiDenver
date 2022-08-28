@@ -586,6 +586,11 @@ body {
   }
 }
 @media (max-width: 657px) and (min-width: 410px) {
+   .logo {
+    width: auto;
+    height: 80px;
+    margin-left: -125px;
+  }
   #hero {
     height: 70vh;
     width: 100%;
