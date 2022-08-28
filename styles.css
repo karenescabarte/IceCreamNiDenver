@@ -585,11 +585,11 @@ body {
     height: auto;
   }
 }
-@media (max-width: 657px) and (min-width: 410px) {
-   .logo {
+@media (max-width: 657px) {
+  .logo {
     width: auto;
     height: 80px;
-    margin-left: -125px;
+    margin-left: -143px;
   }
   #hero {
     height: 70vh;
