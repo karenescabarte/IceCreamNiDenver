@@ -1,1 +1,2 @@
 # IceCreamNiDenver
+Responsive website example
